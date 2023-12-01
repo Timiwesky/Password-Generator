@@ -88,7 +88,7 @@ var upperCasedCharacters = [
   'Z'
 ];
 
-const passwordArrays = {
+var passwordArrays = {
   
   isSpecialChar: specialCharacters.slice(),
   isNumeric: numericCharacters.slice(),
