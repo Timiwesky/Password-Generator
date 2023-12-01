@@ -26,3 +26,7 @@ Once prompts are answered then the password should be generated and displayed in
 
 URL of the Repository that contains the Code : https://github.com/Timiwesky/Password-Generator
 
+
+<img width="1425" alt="Screenshot 2023-11-30 at 11 08 32 PM" src="https://github.com/Timiwesky/Password-Generator/assets/115565053/5f532b5d-2f84-4966-9c1b-0063636cd4c9">
+
+
