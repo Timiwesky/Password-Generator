@@ -147,6 +147,7 @@ Array.prototype.getRandom = function(){
   return this[Math.floor(Math.random()*this.length)];
 }
 
+/*
 // Function to generate password with user input
  function generatePassword() {
   
@@ -191,3 +192,4 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener('click', writePassword);
+*/
