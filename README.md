@@ -22,6 +22,7 @@ Once prompts are answered then the password should be generated and displayed in
 
 ## Usage
 
-## Usage URL of the Deployed Application : https://timiwesky.github.io/Password-Generator/
+ URL of the Deployed Application : https://timiwesky.github.io/Password-Generator/
 
 URL of the Repository that contains the Code : https://github.com/Timiwesky/Password-Generator
+
